@@ -1,0 +1,15 @@
+C:\Users\PEOPLE POWER I.P.S\Desktop\GodClass\bin\Debug\net6.0\GodClass.exe
+C:\Users\PEOPLE POWER I.P.S\Desktop\GodClass\bin\Debug\net6.0\GodClass.deps.json
+C:\Users\PEOPLE POWER I.P.S\Desktop\GodClass\bin\Debug\net6.0\GodClass.runtimeconfig.json
+C:\Users\PEOPLE POWER I.P.S\Desktop\GodClass\bin\Debug\net6.0\GodClass.dll
+C:\Users\PEOPLE POWER I.P.S\Desktop\GodClass\bin\Debug\net6.0\GodClass.pdb
+C:\Users\PEOPLE POWER I.P.S\Desktop\GodClass\obj\Debug\net6.0\GodClass.csproj.AssemblyReference.cache
+C:\Users\PEOPLE POWER I.P.S\Desktop\GodClass\obj\Debug\net6.0\GodClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PEOPLE POWER I.P.S\Desktop\GodClass\obj\Debug\net6.0\GodClass.AssemblyInfoInputs.cache
+C:\Users\PEOPLE POWER I.P.S\Desktop\GodClass\obj\Debug\net6.0\GodClass.AssemblyInfo.cs
+C:\Users\PEOPLE POWER I.P.S\Desktop\GodClass\obj\Debug\net6.0\GodClass.csproj.CoreCompileInputs.cache
+C:\Users\PEOPLE POWER I.P.S\Desktop\GodClass\obj\Debug\net6.0\GodClass.dll
+C:\Users\PEOPLE POWER I.P.S\Desktop\GodClass\obj\Debug\net6.0\refint\GodClass.dll
+C:\Users\PEOPLE POWER I.P.S\Desktop\GodClass\obj\Debug\net6.0\GodClass.pdb
+C:\Users\PEOPLE POWER I.P.S\Desktop\GodClass\obj\Debug\net6.0\GodClass.genruntimeconfig.cache
+C:\Users\PEOPLE POWER I.P.S\Desktop\GodClass\obj\Debug\net6.0\ref\GodClass.dll
